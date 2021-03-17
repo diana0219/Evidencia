@@ -1,0 +1,14 @@
+C:\Users\sebas\source\repos\evidencia_desarrollo\evidencia_desarrollo\bin\Debug\evidencia_desarrollo.exe.config
+C:\Users\sebas\source\repos\evidencia_desarrollo\evidencia_desarrollo\bin\Debug\evidencia_desarrollo.exe
+C:\Users\sebas\source\repos\evidencia_desarrollo\evidencia_desarrollo\bin\Debug\evidencia_desarrollo.pdb
+C:\Users\sebas\source\repos\evidencia_desarrollo\evidencia_desarrollo\obj\Debug\evidencia_desarrollo.csprojAssemblyReference.cache
+C:\Users\sebas\source\repos\evidencia_desarrollo\evidencia_desarrollo\obj\Debug\evidencia_desarrollo.csproj.CoreCompileInputs.cache
+C:\Users\sebas\source\repos\evidencia_desarrollo\evidencia_desarrollo\obj\Debug\evidencia_desarrollo.exe
+C:\Users\sebas\source\repos\evidencia_desarrollo\evidencia_desarrollo\obj\Debug\evidencia_desarrollo.pdb
+C:\Users\sebas\OneDrive\Documentos\diana\evidencia_desarrollo\evidencia_desarrollo\bin\Debug\evidencia_desarrollo.exe.config
+C:\Users\sebas\OneDrive\Documentos\diana\evidencia_desarrollo\evidencia_desarrollo\bin\Debug\evidencia_desarrollo.exe
+C:\Users\sebas\OneDrive\Documentos\diana\evidencia_desarrollo\evidencia_desarrollo\bin\Debug\evidencia_desarrollo.pdb
+C:\Users\sebas\OneDrive\Documentos\diana\evidencia_desarrollo\evidencia_desarrollo\obj\Debug\evidencia_desarrollo.csprojAssemblyReference.cache
+C:\Users\sebas\OneDrive\Documentos\diana\evidencia_desarrollo\evidencia_desarrollo\obj\Debug\evidencia_desarrollo.csproj.CoreCompileInputs.cache
+C:\Users\sebas\OneDrive\Documentos\diana\evidencia_desarrollo\evidencia_desarrollo\obj\Debug\evidencia_desarrollo.exe
+C:\Users\sebas\OneDrive\Documentos\diana\evidencia_desarrollo\evidencia_desarrollo\obj\Debug\evidencia_desarrollo.pdb
